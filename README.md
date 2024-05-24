@@ -1,5 +1,4 @@
-# Data Augmentation in Deep Learning
-===================================
+# Data Augmentation In Deep Learning Using TensorFlow
 
 This tutorial demonstrates the impact of data augmentation on the performance of a deep learning model. We will use the TensorFlow framework and the `albumentations` library to augment our image dataset.
 
